@@ -102,6 +102,3 @@ Or run directly in an IDE with Spark dependencies configured.
 
 ---
 
-## CV Bullet Points
-
-> Built a distributed stock screening pipeline in Java/Apache Spark to rank investment candidates by 5-day return; applied volatility and P/E ratio filters across large-scale historical price datasets.
